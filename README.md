@@ -6,7 +6,7 @@ For know more details about AutoComplete:https://www.syncfusion.com/xamarin-ui-c
 
 AutoComplete user guide documentation:https://help.syncfusion.com/xamarin/autocomplete/getting-started
 
-# Getting Started with AutoComplete sample
+## Getting Started with AutoComplete sample
 Step 1: Add the NuGet to the project and add the namespace as shown in the following code sample:
 
 **[XAML]**
@@ -42,7 +42,7 @@ SfAutoComplete autoComplete = new SfAutoComplete()
 
 ```
 
-# DataTemplateSelector in Xamarin AutoComplete 
+## DataTemplateSelector in Xamarin AutoComplete 
 
 SfAutoComplete supports DataTemplateSelector, which is used to choose a DataTemplate based on data object.
 
@@ -81,7 +81,7 @@ SfAutoComplete supports DataTemplateSelector, which is used to choose a DataTemp
 
 ```
 
-# Create and Initialize Business Models
+## Create and Initialize Business Models
 
 Define a simple model class MobileDetail with fields IsAvailableInStock, Mobile and populate mobile detail in ViewModel.
 
